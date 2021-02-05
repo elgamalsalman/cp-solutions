@@ -18,7 +18,7 @@ Hope you find this helpful :)
 
 # &#x202b; حلول لمسائل البرمجة التنافسية (Competitive Programming)
 
-<div dir='rt'>
+<div dir='rtl'>
 # حلول لمسائل البرمجة التنافسية (Competitive Programming)
 </div>
 
@@ -26,8 +26,8 @@ Hope you find this helpful :)
 
 ## &#x202b; الدافع
 
-<div dir='rt'>
-## الدافع
+##<div dir='rtl'>
+الدافع
 </div>
 
 

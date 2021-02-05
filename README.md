@@ -14,7 +14,7 @@ Explanations generally are going to be written in English and Arabic, but I don'
 
 Hope you find this helpful :)
 
-&#x202b;# حلول لمسائل البرمجة التنافسية (Competitive Programming)
-&#x202b;
-&#x202b;## الدافع
-&#x202b;لقد بدأت طريقي نحو هدف المشاركة و التفوق بإذن الله في مسابقة الألوبيات العالمية للمعلومات (IOI) منذ عدة شهور,
+# حلول لمسائل البرمجة التنافسية (Competitive Programming)
+
+## الدافع
+لقد بدأت طريقي نحو هدف المشاركة و التفوق بإذن الله في مسابقة الألوبيات العالمية للمعلومات (IOI) منذ عدة شهور,

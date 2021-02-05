@@ -18,8 +18,16 @@ Hope you find this helpful :)
 
 # &#x202b; حلول لمسائل البرمجة التنافسية (Competitive Programming)
 
+# <div dir='rtl'>
+حلول لمسائل البرمجة التنافسية (Competitive Programming)
+</div>
+
 <div dir='rtl'>
-# حلول لمسائل البرمجة التنافسية (Competitive Programming)
+حلول لمسائل البرمجة التنافسية (Competitive Programming) #
+</div>
+
+<div dir='rtl'> #
+حلول لمسائل البرمجة التنافسية (Competitive Programming)
 </div>
 
 ## الدافع

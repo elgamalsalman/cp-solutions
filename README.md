@@ -12,20 +12,4 @@ I will be using C++14 if available in all online judges as at the date of writin
 ## Explanations
 Explanations generally are going to be written in English and Arabic, but I don't guarantee writing an explanation to every problem due to time constraints.
 
-Hope you find this helpful :)
-
-<h1>
-	<div dir='rtl'>
-		حلول لمسائل البرمجة التنافسية (Competitive Programming)
-	</div>
-</h1>
-
-<h2>
-	<div dir='rtl'>
-		الدافع
-	</div>
-</h2>
-
-<div dir='rtl'>
-لقد بدأت رحلتي نحو هدف المشاركة و التفوق بإذن الله في مسابقة الألوبيات العالمية للمعلومات (IOI) منذ عدة شهور,
-</div>
+I hope you find this helpful and I wish you all the best of luck, happy coding :)

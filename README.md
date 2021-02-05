@@ -15,11 +15,26 @@ Explanations generally are going to be written in English and Arabic, but I don'
 Hope you find this helpful :)
 
 # حلول لمسائل البرمجة التنافسية (Competitive Programming)
+
 # &#x202b; حلول لمسائل البرمجة التنافسية (Competitive Programming)
 
+<div dir='rt'>
+# حلول لمسائل البرمجة التنافسية (Competitive Programming)
+</div>
+
 ## الدافع
+
 ## &#x202b; الدافع
+
+<div dir='rt'>
+## الدافع
+</div>
+
+
+لقد بدأت رحلتي نحو هدف المشاركة و التفوق بإذن الله في مسابقة الألوبيات العالمية للمعلومات (IOI) منذ عدة شهور,
 
 &#x202b; لقد بدأت رحلتي نحو هدف المشاركة و التفوق بإذن الله في مسابقة الألوبيات العالمية للمعلومات (IOI) منذ عدة شهور,
 
+<div dir='rtl'>
 لقد بدأت رحلتي نحو هدف المشاركة و التفوق بإذن الله في مسابقة الألوبيات العالمية للمعلومات (IOI) منذ عدة شهور,
+</div>

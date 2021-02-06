@@ -1,4 +1,4 @@
-**Find the solution in the 11790.cpp file located in this folder**
+**The solution is in the 11790.cpp file located in this folder**
 
 # Explanation
 

@@ -1,7 +1,9 @@
 # Explanation
 
 **Category**		: Dynamic Programming
+
 **Time Complexity**	: O(nlogn) though O(n ^ 2) would have worked fine
+
 **Memory Complexity**	: O(n)
 
 ## General Comments

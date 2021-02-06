@@ -1,8 +1,8 @@
 # Explanation
 
-<h4> Category</h4>		: Dynamic Programming
-<h4> Time Complexity</h4>	: O(nlogn) though O(n ^ 2) would have worked fine
-<h4> Memory Complexity</h4>	: O(n)
+**Category**		: Dynamic Programming
+**Time Complexity**	: O(nlogn) though O(n ^ 2) would have worked fine
+**Memory Complexity**	: O(n)
 
 ## General Comments
 

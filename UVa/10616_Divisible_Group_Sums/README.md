@@ -24,4 +24,4 @@ We establish the base cases of the recursion, if the numUsedNums is M and the su
 
 ##### Tabulation
 
-It is quite similar to memoization but we run all subproblems with a certain index, and then run all of the subproblems of the next index which rely on the subproblems of the previous index, so the result of the subproblems which have indexes lower than the current index by 2 and more are no more needed, allowing for us to shrink the first dimension to 2. This is the idea behind the memory saving trick.
+It is quite similar to memoization but we first fill the base cases in the dp table (dp\[0\]\[0\]\[0\] = 1, and dp[0][nums[0] mod D and making sure it is positive as outlined before][1] = 1) and run all subproblems with a certain index (from 1 to n - 1) which rely on the subproblems of the previous index, so the result of the subproblems which have indexes lower than the current index by 2 and more are no more needed, allowing for us to shrink the first dimension to 2. This is the idea behind the memory saving trick.

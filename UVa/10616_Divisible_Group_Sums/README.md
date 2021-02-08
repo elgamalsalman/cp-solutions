@@ -1,4 +1,5 @@
-**The memoization solution is in the *10616\_memoization.cpp* file and the tabulation solution is in the *10616\_tabulation.cpp* file**
+**Memoization Code:** [10616\_memoizatoin.cpp]()
+**Tabulation Code:** [10616\_tabulation.cpp]()
 
 # Explanation
 

@@ -10,7 +10,7 @@
 
 ## General Comments
 
-This was my first weighted LIS (Longest Increasing Subsequence) + LDS (Longest Decreasing Subsequence) problem, this problem could have been solved using a simpler O(n ^ 2) algorithm but as a challenge I wanted to come up with an O(nlogn) one.
+This was my first weighted LIS (Longest Increasing Subsequence) + LDS (Longest Decreasing Subsequence) problem, this problem could have been solved using a simpler O(n<sup>2</sup>) algorithm but as a challenge I wanted to come up with an O(nlogn) one.
 
 ## Explanation
 

@@ -4,7 +4,7 @@
 
 **Category:** Dynamic Programming (DP)
 
-**Time Complexity:** O(KxN<sup>2</sup>) : (Worst Case) => O(100 * 100 * 10 * 10) = O(10<sup>6</sup>) < O(10<sup>8</sup>), so it is just fine
+**Time Complexity:** O(KxN<sup>2</sup>) : (Worst Case) => O(100 * 100 * 10<sup>2</sup>) = O(10<sup>6</sup>) < O(10<sup>8</sup>), so it is just fine
 
 **Memory Complexity:** O(KxN<sup>2</sup>) and O(xN<sup>2</sup>) with the space saving trick in tabulation, both of which do not exceed the memory limit.
 

@@ -7,4 +7,4 @@
 * [11566 - Let's Yum Cha](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/11566_Lets_Yum_Cha)
 * [11790 - Murcia's Skyline](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/11790_Murcias_Skyline)
 
-**Hope You find it helpful :)**
+**Hope you find it helpful :)**

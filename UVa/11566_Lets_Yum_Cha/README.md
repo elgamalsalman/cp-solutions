@@ -1,6 +1,4 @@
-**Memoization Code:** [11599\_memoization]()
-
-**Tabulation Code:** [11599\_tabulation]()
+**Tabulation Code:** [11599\_tabulation](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/11566_Lets_Yum_Cha/11566.cpp)
 
 # Explanation
 
@@ -24,7 +22,7 @@ The *dp* table has 3 dimensions as 3 arguments are needed to uniquely identify a
 
 We set *availableMoney* to *x* * (*K* + 1) which is all the money the friends have. We then fill the base cases in the *dp* table (*dp*\[0\]\[0\]\[0\] = 0, and *dp*\[0\]\[p\[0\]\]\[1\] = *f*\[0\] only if *p*\[0\] <= *availableMoney*) and find the solutions to all subproblems with a certain index (from 1 to 2 * *K* - 1) which rely on the subproblems of the previous index. We calculate the solutions by calculating the maximum favour if we buy or don't buy the current dim sum, but we only consider buying the current dimsum if the number of dishes didn't reach the maximum and if buying the current dim sum won't cause the *usedMoney* to exceed *availableMoney* (which is our budget).
 
-Then at the end we find the subproblem with maximum favour between all subproblems with index 2 * *K* - 1 and which don't exceed *availableMoney* after adding the price of the tea and the 10% service fee and have usedDishes between 0 and 2 * (*N* + 1) inclusive.
+Then at the end we find the subproblem with maximum favour between all subproblems with index 2 * *K* - 1 and which don't exceed *availableMoney* after adding the price of the tea and the 10% service fee and have *usedDishes* between 0 and 2 * (*N* + 1) inclusive.
 
 We add the 10% by multiplying by 1.1, but this may cause rounding errors because computers represent numbers in binary but we do in decimal, so sometimes computers' floating point representation may not be exact, this may cause a problem as we are ceiling the result, if this tiny error was enough to change the result to a different integer value ceiling will result in a different value, thus we compensate for it either by subtracting a very small value which is still larger than the small error (in my code I subtracted 1e-6 or 0.000001) or by substituting the 1.1 to 1.1L so that it is a long double so the value is more exact and the size of the error becomes very insignificant so that it won't change the integer value, this is very important because getting it all right and missing this will result in a WA verdict!
 

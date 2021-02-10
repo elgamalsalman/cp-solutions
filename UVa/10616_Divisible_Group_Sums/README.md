@@ -1,5 +1,6 @@
-**Memoization Code:** [10616\_memoizatoin.cpp]()
-**Tabulation Code:** [10616\_tabulation.cpp]()
+**Memoization Code:** [10616\_memoizatoin.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10616_Divisible_Group_Sums/10616_memoization.cpp)
+
+**Tabulation Code:** [10616\_tabulation.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10616_Divisible_Group_Sums/10616_tabulation.cpp)
 
 # Explanation
 

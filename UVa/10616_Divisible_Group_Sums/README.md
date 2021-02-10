@@ -6,9 +6,9 @@
 
 **Category:** Dynamic Programming (DP)
 
-**Time Complexity:** O(NQDM * numSets) : (Worst Case) => O(200 * 10 * 20 * 10 * 10) = O(4000000) < O(10 ^ 8), so it is just fine
+**Time Complexity:** O(NQDM * numSets) : (Worst Case) => O(200 * 10 * 20 * 10 * 10) = O(4000000) < O(10<sup>8</sup>), so it is just fine
 
-**Memory Complexity:** O(NDM), and O(DM) with the space saving trick in tabulation, both of which do not exceed 10 ^ 6 in the worst case.
+**Memory Complexity:** O(NDM), and O(DM) with the space saving trick in tabulation, both of which do not exceed 10<sup>6</sup> in the worst case.
 
 ### General Comments
 

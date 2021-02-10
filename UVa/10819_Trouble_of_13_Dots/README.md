@@ -1,4 +1,5 @@
 **Memoization Code:** [10819\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10819_Trouble_of_13_Dots/10819_memoization.cpp)
+
 **Tabulation Code:** [10819\_tabulation.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10819_Trouble_of_13_Dots/10819_tabulation.cpp)
 
 # Explanation

@@ -2,7 +2,7 @@
 
 # Explanation
 
-**Category:** Dynamic Programming
+**Category:** Dynamic Programming (DP)
 
 **Time Complexity:** O(nlogn) though O(n<sup>2</sup>) would have worked fine
 

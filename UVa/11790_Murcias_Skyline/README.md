@@ -1,12 +1,12 @@
-**The solution is in the 11790.cpp file located in this folder**
+**Code:** [11790.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/11790_Murcias_Skyline/11790.cpp)
 
 # Explanation
 
-<strong>Category:</strong> Dynamic Programming
+**Category:** Dynamic Programming
 
-<strong>Time Complexity:</strong> O(nlogn) though O(n ^ 2) would have worked fine
+**Time Complexity:** O(nlogn) though O(n ^ 2) would have worked fine
 
-<strong>Memory Complexity:</strong> O(n)
+**Memory Complexity:** O(n)
 
 ## General Comments
 

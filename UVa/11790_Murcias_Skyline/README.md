@@ -4,7 +4,7 @@
 
 **Category:** Dynamic Programming
 
-**Time Complexity:** O(nlogn) though O(n ^ 2) would have worked fine
+**Time Complexity:** O(nlogn) though O(n<sup>2</sup>) would have worked fine
 
 **Memory Complexity:** O(n)
 

@@ -22,7 +22,7 @@ The dp table has 2 dimensions as 2 arguments are needed to uniquely identify a s
 
 ##### Memoization
 
-We reset the whole dp table to 1000 (huge number the real value will never reach), then we establish the base cases of the recursion, if the e-modulus value is greater than S then this is a dead end, so we return a huge number that the answer can never reach so that this will never be considered as the min number of coins, this is what we want as this route doesn't lead to an e-modulus of S. 
+We reset the whole dp table to 1000 (huge number the real value will never reach), then we establish the base cases of the recursion, if the e-modulus value is greater than S then this is a dead end, so we return a huge number that the answer can never reach (500) so that this will never be considered as the min number of coins, this is what we want as this route doesn't lead to an e-modulus of S. 
 
 Note: Take care that I have returned a different value other than the default one in the table, they are both larger than any possible answer but they must be different so that other iterations don't recompute dead ends thinking they were not computed yet as this will lead to a TLE verdict.
 

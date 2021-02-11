@@ -30,4 +30,4 @@ I used a reference variable called currDpCell to avoid rewritting the reference 
 
 ##### Tabulation
 
-It is quite similar to memoization but we first fill the base cases in the dp table (dp\[0\]\[0\] = 0, and dp\[0\]\[dresses\[0\].price\] = dresses\[0\].favour) and run all subproblems with a certain indexes from 1 to n - 1 which rely on the subproblems of the previous index, so the result of the subproblems which have indexes lower than the current index by 2 and more are no more needed, allowing us to shrink the first dimension to 2. This is the idea behind the memory saving trick.
+It is quite similar to memoization but we first fill the base cases in the dp table (dp\[0\]\[0\] = 0, and dp\[0\]\[dresses\[0\].price\] = dresses\[0\].favour) and run all subproblems with certain indexes from 1 to n - 1 which rely on the subproblems of the previous index, so the result of the subproblems which have indexes lower than the current index by 2 and more are no more needed, allowing us to shrink the first dimension to 2. This is the idea behind the memory saving trick.

@@ -30,4 +30,4 @@ Now we find the answer by calling numWays(cents, 4) including the whole range of
 
 ##### Tabulation
 
-It uses the same idea as the one in memoization but we first fill the base case in the dp table (dp\[0\]\[0\] = 0) and run all subproblems with a certain indexes from 1 to 30000 which rely on the subproblems of the previous indexes which were already calculated.
+It uses the same idea as the one in memoization but we first fill the base case in the dp table (dp\[0\]\[0\] = 0) and run all subproblems with certain indexes from 1 to 30000 which rely on the subproblems of the previous indexes which were already calculated.

@@ -1,11 +1,12 @@
 **Brute Force Code:** [00216\_bruteForce.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/00216_Getting_in_Line/00216_bruteForce.cpp)
+
 **Memoization Code:** [00216\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/00216_Getting_in_Line/00216_memoization.cpp)
 
 # Explanation
 
 **Category:** Dynamic Programming (DP)
 
-**Time Complexity:** O(n<sup>2</sup> * 2<sup>n</sup>) for the dp memoization code and a notorious O(n!) for the brute force code;
+**Time Complexity:** O(n<sup>2</sup> * 2<sup>n</sup>) for the dp memoization code and a notorious O(n!) for the brute force code.
 
 **Memory Complexity:** O(2<sup>n</sup> * n) for the dp memoization code and a O(n<sup>2</sup>) for the brute force code.
 

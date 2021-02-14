@@ -2,6 +2,7 @@
 
 **Do a binary search ;)**
 
+* [00216 - Getting in Line](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/00216_Getting_in_Line)
 * [00357 - Let Me Count The Ways](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/00357_Let_Me_Count_The_Ways)
 * [10306 - e-Coins](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/10306_eCoins)
 * [10616 - Divisible Group Sums](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/10616_Divisible_Group_Sums)

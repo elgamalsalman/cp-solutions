@@ -6,7 +6,7 @@
 
 **Time Complexity:** O(n<sup>2</sup> * 2<sup>n</sup>)
 
-**Memory Complexity:** O(2<sup>n</sup> * n)
+**Memory Complexity:** O(n * 2<sup>n</sup>)
 
 ### General Comments
 

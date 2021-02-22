@@ -1,4 +1,4 @@
-**Tabulation Code:** [11566\_tabulation.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/11566_Lets_Yum_Cha/11566.cpp)
+**Tabulation Code:** [11566\_tabulation.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/11566_Lets_Yum_Cha/11566.cpp)
 
 # Explanation
 

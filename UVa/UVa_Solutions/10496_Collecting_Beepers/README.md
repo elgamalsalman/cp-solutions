@@ -1,4 +1,4 @@
-**Memoization Code:** [10496\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10496_Collecting_Beepers/10496_memoization.cpp)
+**Memoization Code:** [10496\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/10496_Collecting_Beepers/10496_memoization.cpp)
 
 # Explanation
 
@@ -12,7 +12,7 @@
 
 This is a Traveling Salesman Optimization Problem (TSP-OPT) problem which is a very infamous problem for being NP-Hard, it is one of the so called classical DP problems as they no longer appear as stand-alone problems in programming contests. 
 
-I have solved this problem using DP, specifically memoization. The brute force implementation might have worked in the time limits specified, but I didn't try it because I solved this problem to practice DP. If you would like to see a brute force solution for a similar TSP problem you will find one in problem [00216 - Getting in Line](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/00216_Getting_in_Line/); however, even if the brute force solution did get an ACC verdict for practice I encourage you not to stop right there and try to implement the faster dynamic programming solution which I have an explanation for down below.
+I have solved this problem using DP, specifically memoization. The brute force implementation might have worked in the time limits specified, but I didn't try it because I solved this problem to practice DP. If you would like to see a brute force solution for a similar TSP problem you will find one in problem [00216 - Getting in Line](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/00216_Getting_in_Line/); however, even if the brute force solution did get an ACC verdict for practice I encourage you not to stop right there and try to implement the faster dynamic programming solution which I have an explanation for down below.
 
 I chose memoization (top-down) because I found it more intuitive and because the traversal of the dp table in the tabulation problem must follow a route that covers all the small subproblems of a bigger subproblem before calculating the value for the bigger subproblem, this would be hard to implement as the smaller subproblems are scattered all around the table.
 

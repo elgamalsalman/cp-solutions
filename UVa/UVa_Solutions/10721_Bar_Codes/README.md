@@ -1,4 +1,4 @@
-**Memoization Code:** [10721\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10721_Bar_Codes/10721_memoization.cpp)
+**Memoization Code:** [10721\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/10721_Bar_Codes/10721_memoization.cpp)
 
 # Explanation
 

@@ -1,6 +1,6 @@
-**Memoization Code:** [10306\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10306_eCoins/10306_memoization.cpp)
+**Memoization Code:** [10306\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/10306_eCoins/10306_memoization.cpp)
 
-**Tabulation Code:** [10306\_tabulation.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/10306_eCoins/10306_tabulation.cpp)
+**Tabulation Code:** [10306\_tabulation.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/10306_eCoins/10306_tabulation.cpp)
 
 # Explanation
 

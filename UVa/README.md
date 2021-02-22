@@ -8,6 +8,7 @@
 * [10337 - Flight Planner](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/10337_Flight_Planner)
 * [10496 - Collecting Beepers](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/10496_Collecting_Beepers)
 * [10616 - Divisible Group Sums](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/10616_Divisible_Group_Sums)
+* [10721 - Bar Codes](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/10721_Bar_Codes)
 * [10819 - Trouble of 13-Dots](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/10819_Trouble_of_13_Dots)
 * [11517 - Exact Change](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/11517_Exact_Change)
 * [11566 - Let's Yum Cha](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/11566_Lets_Yum_Cha)

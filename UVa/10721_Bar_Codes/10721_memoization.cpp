@@ -28,6 +28,6 @@ int main () {
 
 	while (cin >> n >> k >> m) {
 		memset(dp, -1, sizeof dp);
-		cout << countCodes(k, n) << '\n'; //tbc
+		cout << countCodes(k, n) << '\n';
 	}
 }

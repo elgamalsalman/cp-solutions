@@ -10,6 +10,7 @@
 * [10616 - Divisible Group Sums](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/10616_Divisible_Group_Sums)
 * [10721 - Bar Codes](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/10721_Bar_Codes)
 * [10819 - Trouble of 13-Dots](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/10819_Trouble_of_13_Dots)
+* [10943 - How do you add?](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/10943_How_do_you_add)
 * [11517 - Exact Change](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/11517_Exact_Change)
 * [11566 - Let's Yum Cha](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/11566_Lets_Yum_Cha)
 * [11790 - Murcia's Skyline](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/11790_Murcias_Skyline)

@@ -15,5 +15,6 @@
 * [11566 - Let's Yum Cha](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/11566_Lets_Yum_Cha)
 * [11790 - Murcia's Skyline](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/11790_Murcias_Skyline)
 * [11831 - Sticker Collector Robot](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa/UVa_Solutions/11831_Sticker_Collector_Robot)
+* [12442 - Forwarding Emails](./UVa_Solutions/12442_Forwarding_Emails)
 
 **Hope you find it helpful :)**

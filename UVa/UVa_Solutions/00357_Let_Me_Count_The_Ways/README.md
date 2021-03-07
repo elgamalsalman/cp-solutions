@@ -1,6 +1,6 @@
-**Memoization Code:** [00357\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/00357_Let_Me_Count_The_Ways/00357_memoization.cpp)
+**Memoization Code:** [00357\_memoization.cpp](./00357_memoization.cpp)
 
-**Tabulation Code:** [00357\_tabulation.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/00357_Let_Me_Count_The_Ways/00357_tabulation.cpp)
+**Tabulation Code:** [00357\_tabulation.cpp](./00357_tabulation.cpp)
 
 # Explanation
 

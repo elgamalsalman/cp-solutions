@@ -1,4 +1,4 @@
-**Code:** [11831.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/11831_Sticker_Collector_Robot/11831.cpp)
+**Code:** [11831.cpp](./11831.cpp)
 
 # Explanation
 

@@ -1,4 +1,4 @@
-**Code:** [11790.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/11790_Murcias_Skyline/11790.cpp)
+**Code:** [11790.cpp](./11790.cpp)
 
 # Explanation
 

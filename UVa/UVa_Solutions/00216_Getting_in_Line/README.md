@@ -1,6 +1,6 @@
-**Brute Force Code:** [00216\_bruteForce.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/00216_Getting_in_Line/00216_bruteForce.cpp)
+**Brute Force Code:** [00216\_bruteForce.cpp](./00216_bruteForce.cpp)
 
-**Memoization Code:** [00216\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/00216_Getting_in_Line/00216_memoization.cpp)
+**Memoization Code:** [00216\_memoization.cpp](./00216_memoization.cpp)
 
 # Explanation
 

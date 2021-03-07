@@ -1,4 +1,4 @@
-**Memoization Code:** [10496\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/10496_Collecting_Beepers/10496_memoization.cpp)
+**Memoization Code:** [10496\_memoization.cpp](./10496_memoization.cpp)
 
 # Explanation
 

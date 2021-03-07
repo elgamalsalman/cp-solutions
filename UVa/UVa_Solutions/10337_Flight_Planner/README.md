@@ -1,4 +1,4 @@
-**Memoization Code:** [10337\_memoization.cpp](https://github.com/elgamalsalman/CPSolutions/blob/main/UVa/UVa_Solutions/10337_Flight_Planner/10337_memoization.cpp)
+**Memoization Code:** [10337\_memoization.cpp](./10337_memoization.cpp)
 
 # Explanation
 

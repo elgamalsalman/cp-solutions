@@ -14,7 +14,7 @@ This is graph traversal problem which you can solve fairly easily if you can det
 
 ### Explanation
 
-The code first save the reciever of the email from u in rec[u] for all u (1 to N) then the code performs the modified DFS until every martian has been visited, but first all martians are set to UNVISITED in the array dfsNum. We also store the number of martains reachable from the martain u in the array seens index u.
+The code first saves the reciever of the email from u in rec[u] for all u (1 to N) then the code performs the modified DFS until every martian has been visited, but first all martians are set to UNVISITED in the array dfsNum. We also store the number of martains reachable from the martain u in the array seens index u.
 
 The modified DFS traverses through the graph and numbers every martain that is explored but not yet finished (still exploring its children), after exploring all its children the martain is labelled VISITED.
 

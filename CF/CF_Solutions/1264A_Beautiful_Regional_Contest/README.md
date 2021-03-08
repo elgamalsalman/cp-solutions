@@ -1,4 +1,4 @@
-**Code:** [1264A.cpp](./1263A.cpp)
+**Code:** [1264A.cpp](./1264A.cpp)
 
 # Explanation
 

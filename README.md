@@ -1,7 +1,8 @@
 # CPSolutions
 
 ## Solutions for problems in the following websites:
-* [UVa Online Judge Solutions](https://github.com/elgamalsalman/CPSolutions/tree/main/UVa)
+* [UVa Online Judge Solutions](./UVa)
+* [Codeforces Solutions](./CF)
 
 ## Motivation
 I have started preparing for the IOI a few months ago so I have decided to share my journey with others in order to encourage more people to learn about programming and CS in general. At first I will be reading the book "Competitive Programming 3" (which I call "CP3" for short) by Steven and Felix Halim and solving problems on the website which occompanies it ([UVa Online Judge](https://onlinejudge.org/)). Hopefully, the list of problems and websites from which these problems are taken will grow over time.

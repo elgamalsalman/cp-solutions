@@ -8,7 +8,7 @@
 
 ### General Comments
 
-This is a fairly straight-forward problem, the first thing to notice is that q can reach 2 * 10<sup>5</sup> which without even coding it tells us that the complete search problem with the time complexity of O(q<sup>2</sup>) will yield a TLE verdict as (2 * 10<sup>5</sup>)<sup>2</sup> is 4 * 10<sup>10</sup>, and as a rule of thumb we can take any number larger than 10<sup>8</sup> as too large.
+This is a fairly straightforward problem, the first thing to notice is that q can reach 2 * 10<sup>5</sup> which without even coding it tells us that the complete search problem with the time complexity of O(q<sup>2</sup>) will yield a TLE verdict as (2 * 10<sup>5</sup>)<sup>2</sup> is 4 * 10<sup>10</sup>, and as a rule of thumb we can take any time complexity larger than 10<sup>8</sup> as too large.
 
 ### Explanation
 

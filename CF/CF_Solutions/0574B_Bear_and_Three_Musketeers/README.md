@@ -10,7 +10,7 @@
 
 ### General Comments
 
-This is a graph problem warriors, are vertices and recognitions are edges.
+This is a graph problem, warriors are vertices and recognitions are edges.
 
 This problem really caught me off-guard, at first I thought of using dfs or bfs to detect cycles but after many failed attempts and some research I discovered that the general form of this problem is actually NP-Hard. This means that the polynomial time algorithm (like the one I was trying to devise) wasn't discovered yet. Thus the only solution is using complete-search (brute-force) and some pruning in order to solve it, this should have been obvious as the constraints are low.
 

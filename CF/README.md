@@ -10,5 +10,6 @@
 * [1066C - Books Queries](./CF_Solutions/1066C_Books_Queries)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
+* [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 
 **Hope you find it helpful :)**

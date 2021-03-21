@@ -3,7 +3,7 @@
 **Do a binary search ;)**
 
 * [0414A - Mashmokh and Numbers](./CF_Solutions/0414A_Mashmokh_and_Numbers)
-* [0484A - Bits](./CF_Solutions/0484_Bits)
+* [0484A - Bits](./CF_Solutions/0484A_Bits)
 * [0546D - Soldier and Number Game](./CF_Solutions/0546D_Soldier_and_Number_Game)
 * [0574B - Bear and Three Musketeers](./CF_Solutions/0574B_Bear_and_Three_Musketeers)
 * [0605A - Sorting Railway Cars](./CF_Solutions/0605A_Sorting_Railway_Cars)

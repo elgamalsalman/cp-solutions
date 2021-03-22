@@ -6,7 +6,7 @@
 
 **Memory Complexity:** O(1) 
 
-**Category:** Mathematical Sequences
+**Category:** Combinatorics
 
 ### General Comments
 

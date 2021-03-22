@@ -13,6 +13,7 @@
 * [1066C - Books Queries](./CF_Solutions/1066C_Books_Queries)
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
+* [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 

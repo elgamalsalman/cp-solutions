@@ -8,13 +8,12 @@ int	j, changes, chosenRoot = -1, a, n;
 
 class UFDS {
 	int	num;
-	vi	p, h;
+	vi	p;
 
 	public:
 		UFDS (int _n) {
 			num = _n;
 			p.resize(num + 20, 0);
-			h.resize(num + 20, 0);
 			for (int i = 1; i <= num; i++) p[i] = i;
 		}
 

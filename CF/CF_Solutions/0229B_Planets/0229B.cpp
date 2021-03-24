@@ -23,7 +23,6 @@ void bfs () {
 	q.push(1);
 	while (!q.empty()) {
 		int u = q.front(); q.pop();
-
 		
 		// calculate time delay in planet
 		int delay = 0;

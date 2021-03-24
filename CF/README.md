@@ -2,6 +2,7 @@
 
 **Do a binary search ;)**
 
+* [0229B - Planets](./CF_Solutions/0229B_Planets)
 * [0414A - Mashmokh and Numbers](./CF_Solutions/0414A_Mashmokh_and_Numbers)
 * [0484A - Bits](./CF_Solutions/0484A_Bits)
 * [0546D - Soldier and Number Game](./CF_Solutions/0546D_Soldier_and_Number_Game)

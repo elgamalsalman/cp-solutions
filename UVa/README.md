@@ -11,6 +11,7 @@
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)
 * [10943 - How do you add?](./UVa_Solutions/10943_How_do_you_add)
+* [11094 - Continents](./UVa_Solutions/11094_Continents)
 * [11517 - Exact Change](./UVa_Solutions/11517_Exact_Change)
 * [11566 - Let's Yum Cha](./UVa_Solutions/11566_Lets_Yum_Cha)
 * [11790 - Murcia's Skyline](./UVa_Solutions/11790_Murcias_Skyline)

@@ -10,7 +10,7 @@
 
 ### General Comments
 
-This is a topological sort problem which needs only one possible sort printed out, and thus I used the simple dfs based algorithm. However there is another algorithm for topological sorting based on bfs which would have worked just fine, you can find an explanation for the bfs based algorithm in the solutin to problem [00872 - Ordering](../00872_Ordering).
+This is a topological sort problem which needs only one possible sort printed out, and thus I used the simple dfs based algorithm. However there is another algorithm for topological sorting based on bfs which would have worked just fine, you can find an explanation for the bfs based algorithm in the solution to problem [00872 - Ordering](../00872_Ordering).
 
 ### Explanation
 

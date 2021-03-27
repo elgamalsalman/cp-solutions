@@ -52,7 +52,7 @@ int main () {
 			char1 = cin.get();
 			indegrees[char1 - 'A'] = 0;
 			if (verticesNum == 100) break;
-		} while ((char2 = cin.get()) != '\n');
+		} while (cin.get() != '\n');
 
 		do {
 			char1 = cin.get();

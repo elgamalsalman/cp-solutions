@@ -5,6 +5,7 @@
 * [00216 - Getting in Line](./UVa_Solutions/00216_Getting_in_Line)
 * [00357 - Let Me Count The Ways](./UVa_Solutions/00357_Let_Me_Count_The_Ways)
 * [00872 - Ordering](./UVa_Solutions/00872_Ordering)
+* [10305 - Ordering Tasks](./UVa_Solutions/10305_Ordering_Tasks)
 * [10306 - e-Coins](./UVa_Solutions/10306_eCoins)
 * [10337 - Flight Planner](./UVa_Solutions/10337_Flight_Planner)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)

@@ -15,6 +15,7 @@
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)
 * [10943 - How do you add?](./UVa_Solutions/10943_How_do_you_add)
 * [11060 - Beverages](./UVa_Solutions/11060_Beverages)
+* [11080 - Place the Guards](./UVa_Solutions/11080_Place_the_Guards)
 * [11094 - Continents](./UVa_Solutions/11094_Continents)
 * [11517 - Exact Change](./UVa_Solutions/11517_Exact_Change)
 * [11566 - Let's Yum Cha](./UVa_Solutions/11566_Lets_Yum_Cha)

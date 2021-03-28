@@ -15,6 +15,7 @@
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
 * [10616 - Divisible Group Sums](./UVa_Solutions/10616_Divisible_Group_Sums)
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)
+* [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)
 * [10943 - How do you add?](./UVa_Solutions/10943_How_do_you_add)
 * [11060 - Beverages](./UVa_Solutions/11060_Beverages)

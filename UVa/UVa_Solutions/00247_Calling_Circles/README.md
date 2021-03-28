@@ -2,7 +2,7 @@
 
 # Explanation
 
-**Time Complexity:** O(n + m)
+**Time Complexity:** O(n<sup>2</sup> + m) though O(nlogn + m) could have been possible with the addition of one simple array, but it isn't necessary.
 
 **Memory Complexity:** O(n + m)
 

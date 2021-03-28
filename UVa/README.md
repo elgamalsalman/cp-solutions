@@ -21,6 +21,7 @@
 * [11080 - Place the Guards](./UVa_Solutions/11080_Place_the_Guards)
 * [11094 - Continents](./UVa_Solutions/11094_Continents)
 * [11396 - Claw Decomposition](./UVa_Solutions/11396_Claw_Decomposition)
+* [11504 - Dominos](./UVa_Solutions/11504_Dominos)
 * [11517 - Exact Change](./UVa_Solutions/11517_Exact_Change)
 * [11566 - Let's Yum Cha](./UVa_Solutions/11566_Lets_Yum_Cha)
 * [11790 - Murcia's Skyline](./UVa_Solutions/11790_Murcias_Skyline)

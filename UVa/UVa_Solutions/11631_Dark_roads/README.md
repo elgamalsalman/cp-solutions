@@ -10,7 +10,7 @@
 
 ### General Comments
 
-This is a Minimum Spanning Tree (MST) problem which can be solved using either Kruskal's algorithm or Prim's algorithm. I used Prim's but Kruskal's would have worked fine. However, Prim's is muuch shorter to code, as I needed to write the UFDS (aka DSU) structure from scratch for kruskal's to work. Anyways, if you would like to see a Kruskal's algorithm explanation see the solution to the problem [11228 - Transportation system](../11228_Transportation_system).
+This is a Minimum Spanning Tree (MST) problem which can be solved using either Kruskal's algorithm or Prim's algorithm. I used Prim's but Kruskal's would have worked fine. However, Prim's is much shorter to code, as I need to write the UFDS (aka DSU) structure from scratch for kruskal's to work. Anyways, if you would like to see a Kruskal's algorithm explanation see my solution to the problem [11228 - Transportation system](../11228_Transportation_system).
 
 ### Explanation
 

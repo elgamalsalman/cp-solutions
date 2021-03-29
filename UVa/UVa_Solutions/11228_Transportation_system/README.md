@@ -14,6 +14,6 @@ This is a Minimum Spanning Tree (MST) problem which can be solved using either K
 
 ### Explanation
 
-What Kruskal's algorithm does simply is that it sorts an edges list in non-decreasing order, and greedily includes the shortest edge which connects two vertices which aren't already connected. The connection criteria is checked quickly using a UFDS (aka DSU) structure.
+What Kruskal's algorithm does simply is that it sorts an edge list in non-decreasing order, and greedily includes the shortest edge which connects two vertices which aren't already connected. The connection criteria is checked quickly using a UFDS (aka DSU) structure.
 
 See CP3 pages *138* and *139* for a more thorough explanation.

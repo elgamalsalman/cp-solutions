@@ -9,6 +9,7 @@
 * [00796 - Critical Links](./UVa_Solutions/00796_Critical_Links)
 * [00872 - Ordering](./UVa_Solutions/00872_Ordering)
 * [10004 - Bicoloring](./UVa_Solutions/10004_Bicoloring)
+* [10048 - Audiophobia](./UVa_Solutions/10048_Audiophobia)
 * [10305 - Ordering Tasks](./UVa_Solutions/10305_Ordering_Tasks)
 * [10306 - e-Coins](./UVa_Solutions/10306_eCoins)
 * [10337 - Flight Planner](./UVa_Solutions/10337_Flight_Planner)

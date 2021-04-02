@@ -2,9 +2,9 @@
 
 # Explanation
 
-**Time Complexity:** O(P^2^logP)
+**Time Complexity:** O(P<sup>2</sup>logP)
 
-**Memory Complexity:** O(P^2^)
+**Memory Complexity:** O(P<sup>2</sup>)
 
 **Category:** Graph Theory
 

@@ -13,6 +13,7 @@
 * [10305 - Ordering Tasks](./UVa_Solutions/10305_Ordering_Tasks)
 * [10306 - e-Coins](./UVa_Solutions/10306_eCoins)
 * [10337 - Flight Planner](./UVa_Solutions/10337_Flight_Planner)
+* [10369 - Arctic Network](./UVa_Solutions/10369_Arctic_Network)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
 * [10616 - Divisible Group Sums](./UVa_Solutions/10616_Divisible_Group_Sums)
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)

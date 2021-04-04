@@ -28,6 +28,7 @@
 * [11060 - Beverages](./UVa_Solutions/11060_Beverages)
 * [11080 - Place the Guards](./UVa_Solutions/11080_Place_the_Guards)
 * [11094 - Continents](./UVa_Solutions/11094_Continents)
+* [11101 - Mall Mania](./UVa_Solutions/11101_Mall_Mania)
 * [11228 - Transportation system](./UVa_Solutions/11228_Transportation_system)
 * [11396 - Claw Decomposition](./UVa_Solutions/11396_Claw_Decomposition)
 * [11504 - Dominos](./UVa_Solutions/11504_Dominos)

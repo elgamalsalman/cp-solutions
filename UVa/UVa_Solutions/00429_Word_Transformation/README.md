@@ -12,7 +12,7 @@ Where n is the number of words and m is the number of queries.
 
 ### General Comments
 
-This is a Single Pair Shortest Paths (SPSP) problem on an unweighted graph, which makes BFS our best option.
+This is a Single Pair Shortest Path (SPSP) problem on an unweighted graph, which makes BFS our best option.
 
 ### Explanation
 

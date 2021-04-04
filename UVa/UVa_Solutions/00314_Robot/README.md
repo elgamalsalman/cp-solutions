@@ -20,4 +20,4 @@ Also notice that if a box at position (r, c) is blocked, all the vertices around
 
 Additionally the state of this graph isn't just the position of the robot but also the direction it is facing. Therefore, number of vertices jumps to 4 * M * N, and after that a BFS on the graph is then possible.
 
-> Notice that you need to make sure the BFS never reaches the borders of the grid as the robot has some thickness to it, and make sure it never goes to a blocked vertex.
+> Notice that you need to make sure the BFS never reaches the borders of the grid as the robot has some thickness to it. Also, make sure the robot never goes to a blocked vertex.

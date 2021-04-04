@@ -19,6 +19,7 @@
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
 * [10600 - ACM Contest and Blackout](./UVa_Solutions/10600_ACM_Contest_and_Blackout)
 * [10616 - Divisible Group Sums](./UVa_Solutions/10616_Divisible_Group_Sums)
+* [10653 - Bombs! NO they are Mines!!](./UVa_Solutions/10653_Bombs_NO_they_are_Mines)
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)
 * [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)

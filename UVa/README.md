@@ -9,6 +9,7 @@
 * [00429 - Word Transformation](./UVa_Solutions/00429_Word_Transformation)
 * [00796 - Critical Links](./UVa_Solutions/00796_Critical_Links)
 * [00872 - Ordering](./UVa_Solutions/00872_Ordering)
+* [00924 - Spreading The News](./UVa_Solutions/00924_Spreading_The_News)
 * [10004 - Bicoloring](./UVa_Solutions/10004_Bicoloring)
 * [10048 - Audiophobia](./UVa_Solutions/10048_Audiophobia)
 * [10305 - Ordering Tasks](./UVa_Solutions/10305_Ordering_Tasks)

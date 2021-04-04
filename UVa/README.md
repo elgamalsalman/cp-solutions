@@ -4,6 +4,7 @@
 
 * [00216 - Getting in Line](./UVa_Solutions/00216_Getting_in_Line)
 * [00247 - Calling Circles](./UVa_Solutions/00247_Calling_Circles)
+* [00314 - Robot](./UVa_Solutions/00314_Robot)
 * [00315 - Network](./UVa_Solutions/00315_Network)
 * [00357 - Let Me Count The Ways](./UVa_Solutions/00357_Let_Me_Count_The_Ways)
 * [00429 - Word Transformation](./UVa_Solutions/00429_Word_Transformation)

@@ -40,6 +40,7 @@
 * [11831 - Sticker Collector Robot](./UVa_Solutions/11831_Sticker_Collector_Robot)
 * [11838 - Come and Go](./UVa_Solutions/11838_Come_and_Go)
 * [11953 - Battleships](./UVa_Solutions/11953_Battleships)
+* [12160 - Unlock the Lock](./UVa_Solutions/12160_Unlock_the_Lock)
 * [12442 - Forwarding Emails](./UVa_Solutions/12442_Forwarding_Emails)
 
 **Hope you find it helpful :)**

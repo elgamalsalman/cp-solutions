@@ -15,7 +15,7 @@ This is a Single Pair Shortest Path (SPSP) problem on a weighted graph, and thus
 
 ### Explanation
 
-The vertices here are the floors and an edge is between any two floors which are connected by an elevator, the weight of that edge is number of floors between the two floors multiplied by the time taken for that elevator to move one floor.
+The vertices here are the floors and an edge is between any two floors which are connected by an elevator, the weight of that edge is the number of floors between the two floors multiplied by the time taken for that elevator to move one floor.
 
 Additionally the code should add 60 seconds after each edge as specified in the problem description except at floor zero where the person starts.
 

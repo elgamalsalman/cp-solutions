@@ -27,6 +27,7 @@
 * [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)
 * [10943 - How do you add?](./UVa_Solutions/10943_How_do_you_add)
+* [10986 - Sending email](./UVa_Solutions/10986_Sending_email)
 * [11060 - Beverages](./UVa_Solutions/11060_Beverages)
 * [11080 - Place the Guards](./UVa_Solutions/11080_Place_the_Guards)
 * [11094 - Continents](./UVa_Solutions/11094_Continents)

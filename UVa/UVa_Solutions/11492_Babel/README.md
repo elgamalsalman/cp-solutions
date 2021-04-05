@@ -10,9 +10,7 @@
 
 ### General Comments
 
-After adding a starting vertex that has an edge of weight zero going to all the words in the starting language, and adding a ending vertex with edges of weight 0 from all words in the ending language, this becomes a Single Pair Shortest Path (SPSP) problem on a weighted graph, and thus dijkstra's algorithm can solve it in a time complexity of O((E + V)logV).
-
-This problem was a bit annoying to implement because the vertices of the graph are given as words.
+After adding a starting vertex that has an edge of weight zero going to each word in the starting language, and adding an ending vertex with edges of weight 0 from all words in the ending language, this becomes a Single Pair Shortest Path (SPSP) problem on a weighted graph, and thus dijkstra's algorithm can solve it in a time complexity of O((E + V)logV).
 
 ### Explanation
 

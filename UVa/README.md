@@ -20,6 +20,7 @@
 * [10306 - e-Coins](./UVa_Solutions/10306_eCoins)
 * [10337 - Flight Planner](./UVa_Solutions/10337_Flight_Planner)
 * [10369 - Arctic Network](./UVa_Solutions/10369_Arctic_Network)
+* [10449 - Traffic](./UVa_Solutions/10449_Traffic)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
 * [10600 - ACM Contest and Blackout](./UVa_Solutions/10600_ACM_Contest_and_Blackout)
 * [10616 - Divisible Group Sums](./UVa_Solutions/10616_Divisible_Group_Sums)

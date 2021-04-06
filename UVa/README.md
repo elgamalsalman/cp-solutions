@@ -8,6 +8,7 @@
 * [00315 - Network](./UVa_Solutions/00315_Network)
 * [00357 - Let Me Count The Ways](./UVa_Solutions/00357_Let_Me_Count_The_Ways)
 * [00429 - Word Transformation](./UVa_Solutions/00429_Word_Transformation)
+* [00558 - Wormholes](./UVa_Solutions/00558_Wormholes)
 * [00796 - Critical Links](./UVa_Solutions/00796_Critical_Links)
 * [00872 - Ordering](./UVa_Solutions/00872_Ordering)
 * [00924 - Spreading The News](./UVa_Solutions/00924_Spreading_The_News)

@@ -22,6 +22,7 @@
 * [10369 - Arctic Network](./UVa_Solutions/10369_Arctic_Network)
 * [10449 - Traffic](./UVa_Solutions/10449_Traffic)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
+* [10557 - XYZZY](./UVa_Solutions/10557_XYZZY)
 * [10600 - ACM Contest and Blackout](./UVa_Solutions/10600_ACM_Contest_and_Blackout)
 * [10616 - Divisible Group Sums](./UVa_Solutions/10616_Divisible_Group_Sums)
 * [10653 - Bombs! NO they are Mines!!](./UVa_Solutions/10653_Bombs_NO_they_are_Mines)

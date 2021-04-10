@@ -4,7 +4,7 @@
 
 * [0118D - Caesar's Legions](./CF_Solutions/0118D_Caesars_Legions)
 * [0229B - Planets](./CF_Solutions/0229B_Planets)
-* [0339D - Xenia and Bit Operations](./CF_Solutions/0339D - Xenia and Bit Operations)
+* [0339D - Xenia and Bit Operations](./CF_Solutions/0339D_Xenia_and_Bit_Operations)
 * [0414A - Mashmokh and Numbers](./CF_Solutions/0414A_Mashmokh_and_Numbers)
 * [0474D - Flowers](./CF_Solutions/0474D_Flowers)
 * [0484A - Bits](./CF_Solutions/0484A_Bits)

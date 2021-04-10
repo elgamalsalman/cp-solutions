@@ -2,6 +2,7 @@
 
 **Do a binary search ;)**
 
+* [0118D - Caesar's Legions](./CF_Solutions/0118D_Caesars_Legions)
 * [0229B - Planets](./CF_Solutions/0229B_Planets)
 * [0339D - Xenia and Bit Operations](./CF_Solutions/0339D - Xenia and Bit Operations)
 * [0414A - Mashmokh and Numbers](./CF_Solutions/0414A_Mashmokh_and_Numbers)

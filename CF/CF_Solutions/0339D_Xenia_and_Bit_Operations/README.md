@@ -10,4 +10,4 @@
 
 ### General Comments
 
-This problem could be solved using a segment tree which allows for logn update and range queries, where n is the length of the array.
+This problem could be solved using a segment tree which allows for O(logn) update and range queries, where n is the length of the array.

@@ -3,6 +3,7 @@
 **Do a binary search ;)**
 
 * [0118D - Caesar's Legions](./CF_Solutions/0118D_Caesars_Legions)
+* [0126B - Password](./CF_Solutions/0126B_Password)
 * [0229B - Planets](./CF_Solutions/0229B_Planets)
 * [0339D - Xenia and Bit Operations](./CF_Solutions/0339D_Xenia_and_Bit_Operations)
 * [0414A - Mashmokh and Numbers](./CF_Solutions/0414A_Mashmokh_and_Numbers)
@@ -21,6 +22,7 @@
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
+* [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 
 **Hope you find it helpful :)**

@@ -6,4 +6,4 @@
 
 **Memory Complexity:** O(n) 
 
-**Category:** greedy
+**Category:** Greedy

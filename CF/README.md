@@ -24,6 +24,7 @@
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)
 * [1328D - Carousel](./CF_Solutions/1328D_Carousel)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
+* [1355C - Count Triangles](./CF_Solutions/1355C_Count_Triangles)
 * [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 * [1398D - Colored Rectangles](./CF_Solutions/1398D_Colored_Rectangles)

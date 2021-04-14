@@ -1,4 +1,4 @@
-**Code:** [0126B.cpp](./1269B.cpp)
+**Code:** [0126B.cpp](./0126B.cpp)
 
 # Explanation
 

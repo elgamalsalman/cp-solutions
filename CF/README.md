@@ -2,6 +2,7 @@
 
 **Do a binary search ;)**
 
+* [0083B - Doctor](./CF_Solutions/0083B_Doctor)
 * [0118D - Caesar's Legions](./CF_Solutions/0118D_Caesars_Legions)
 * [0126B - Password](./CF_Solutions/0126B_Password)
 * [0229B - Planets](./CF_Solutions/0229B_Planets)
@@ -24,6 +25,7 @@
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)
 * [1328D - Carousel](./CF_Solutions/1328D_Carousel)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
+
 * [1355C - Count Triangles](./CF_Solutions/1355C_Count_Triangles)
 * [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)

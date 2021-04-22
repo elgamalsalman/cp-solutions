@@ -2,6 +2,6 @@
 
 **Do a binary search ;)**
 
-* [abc198D - Send More Money](./CF_Solutions/abc198D)
+* [abc198D - Send More Money](./Atcoder_Solutions/abc198D)
 
 **Hope you find it helpful :)**

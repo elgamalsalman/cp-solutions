@@ -32,5 +32,6 @@
 * [1398D - Colored Rectangles](./CF_Solutions/1398D_Colored_Rectangles)
 * [1508B - Almost Sorted](./CF_Solutions/1508B_Almost_Sorted)
 * [1509C - The Sports Festival](./CF_Solutions/1509C_The_Sports_Festival)
+* [1512G - Short Task](./CF_Solutions/1512G_Short_Task)
 
 **Hope you find it helpful :)**

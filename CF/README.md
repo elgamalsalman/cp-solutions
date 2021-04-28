@@ -33,5 +33,6 @@
 * [1508B - Almost Sorted](./CF_Solutions/1508B_Almost_Sorted)
 * [1509C - The Sports Festival](./CF_Solutions/1509C_The_Sports_Festival)
 * [1512G - Short Task](./CF_Solutions/1512G_Short_Task)
+* [1517D - Explorer Space](./CF_Solutions/1517D_Explorer_Space)
 
 **Hope you find it helpful :)**

@@ -3,6 +3,7 @@
 ## Solutions for problems in the following websites:
 * [Atcoder Solutions](./Atcoder)
 * [Codeforces Solutions](./CF)
+* [USACO Solutions](./USACO)
 * [UVa Online Judge Solutions](./UVa)
 
 ## Motivation

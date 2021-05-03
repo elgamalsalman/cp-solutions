@@ -3,6 +3,7 @@
 ## Solutions for problems in the following websites:
 * [Atcoder Solutions](./Atcoder)
 * [Codeforces Solutions](./CF)
+* [oj.uz Solutions](./oj_uz)
 * [USACO Solutions](./USACO)
 * [UVa Online Judge Solutions](./UVa)
 

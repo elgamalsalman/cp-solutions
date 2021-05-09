@@ -13,6 +13,7 @@
 * [0484A - Bits](./CF_Solutions/0484A_Bits)
 * [0546D - Soldier and Number Game](./CF_Solutions/0546D_Soldier_and_Number_Game)
 * [0574B - Bear and Three Musketeers](./CF_Solutions/0574B_Bear_and_Three_Musketeers)
+* [0575H - Bots](./CF_Solutions/0575H_Bots)
 * [0605A - Sorting Railway Cars](./CF_Solutions/0605A_Sorting_Railway_Cars)
 * [0698B - Fix a Tree](./CF_Solutions/0698B_Fix_a_Tree)
 * [0833A - The Meaningless Game](./CF_Solutions/0833A_The_Meaningless_Game)

@@ -17,6 +17,7 @@
 * [0605A - Sorting Railway Cars](./CF_Solutions/0605A_Sorting_Railway_Cars)
 * [0698B - Fix a Tree](./CF_Solutions/0698B_Fix_a_Tree)
 * [0833A - The Meaningless Game](./CF_Solutions/0833A_The_Meaningless_Game)
+* [0847E - Packmen](./CF_Solutions/0847E_Packmen)
 * [0924B - Three-level Laser](./CF_Solutions/0924B_Three_level_Laser)
 * [1056D - Decorate Apple Tree](./CF_Solutions/1056D_Decorate_Apple_Tree)
 * [1066C - Books Queries](./CF_Solutions/1066C_Books_Queries)

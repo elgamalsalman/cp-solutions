@@ -6,4 +6,4 @@
 
 **Memory Complexity:** O(n) 
 
-**Category:** Brute Force
+**Category:** Probability

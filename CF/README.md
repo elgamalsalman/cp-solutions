@@ -2,6 +2,7 @@
 
 **Do a binary search ;)**
 
+* [0067A - Partial Teacher](./CF_Solutions/0067A_Partial_Teacher)
 * [0083B - Doctor](./CF_Solutions/0083B_Doctor)
 * [0118D - Caesar's Legions](./CF_Solutions/0118D_Caesars_Legions)
 * [0126B - Password](./CF_Solutions/0126B_Password)

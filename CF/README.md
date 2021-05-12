@@ -7,6 +7,7 @@
 * [0118D - Caesar's Legions](./CF_Solutions/0118D_Caesars_Legions)
 * [0126B - Password](./CF_Solutions/0126B_Password)
 * [0229B - Planets](./CF_Solutions/0229B_Planets)
+* [0252B - Unsorting Array](./CF_Solutions/0252B_Unsorting_Array)
 * [0339D - Xenia and Bit Operations](./CF_Solutions/0339D_Xenia_and_Bit_Operations)
 * [0414A - Mashmokh and Numbers](./CF_Solutions/0414A_Mashmokh_and_Numbers)
 * [0448D - Multiplication Table](./CF_Solutions/0448D_Multiplication_Table)

@@ -18,6 +18,7 @@
 * [0575H - Bots](./CF_Solutions/0575H_Bots)
 * [0605A - Sorting Railway Cars](./CF_Solutions/0605A_Sorting_Railway_Cars)
 * [0698B - Fix a Tree](./CF_Solutions/0698B_Fix_a_Tree)
+* [0727D - T-shirts Distribution](./CF_Solutions/0727D_Tshirts_Distribution)
 * [0833A - The Meaningless Game](./CF_Solutions/0833A_The_Meaningless_Game)
 * [0846F - Random Query](./CF_Solutions/0846F_Random_Query)
 * [0847E - Packmen](./CF_Solutions/0847E_Packmen)

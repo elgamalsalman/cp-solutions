@@ -26,6 +26,7 @@
 * [1056D - Decorate Apple Tree](./CF_Solutions/1056D_Decorate_Apple_Tree)
 * [1066C - Books Queries](./CF_Solutions/1066C_Books_Queries)
 * [1102E - Monotonic Renumeration](./CF_Solutions/1102E_Monotonic_Renumeration)
+* [1177B - Digits Sequence (Hard Edition)](./CF_Solutions/1177B_Digits_Sequence_Hard_Edition)
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)

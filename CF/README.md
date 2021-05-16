@@ -46,6 +46,7 @@
 * [1491D - Zookeeper and The Infinite Zoo](./CF_Solutions/1491D_Zookeeper_and_The_Infinite_Zoo)
 * [1508B - Almost Sorted](./CF_Solutions/1508B_Almost_Sorted)
 * [1509C - The Sports Festival](./CF_Solutions/1509C_The_Sports_Festival)
+* [1512F - Education](./CF_Solutions/1512F_Education)
 * [1512G - Short Task](./CF_Solutions/1512G_Short_Task)
 * [1517D - Explorer Space](./CF_Solutions/1517D_Explorer_Space)
 

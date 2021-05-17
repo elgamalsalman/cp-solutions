@@ -43,6 +43,7 @@
 * [1466E - Apollo versus Pan](./CF_Solutions/1466E_Apollo_versus_Pan)
 * [1468J - Road Reform](./CF_Solutions/1468J_Road_Reform)
 * [1475D - Cleaning the Phone](./CF_Solutions/1475D_Cleaning_the_Phone)
+* [1475F - Unusual Matrix](./CF_Solutions/1475F_Unusual_Matrix)
 * [1491D - Zookeeper and The Infinite Zoo](./CF_Solutions/1491D_Zookeeper_and_The_Infinite_Zoo)
 * [1508A - Binary Literature](./CF_Solutions/1508A_Binary_Literature)
 * [1508B - Almost Sorted](./CF_Solutions/1508B_Almost_Sorted)

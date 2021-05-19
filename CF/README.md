@@ -39,6 +39,7 @@
 * [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 * [1398D - Colored Rectangles](./CF_Solutions/1398D_Colored_Rectangles)
+* [1404B - Tree Tag](./CF_Solutions/1404B_Tree_Tag)
 * [1463C - Busy Robot](./CF_Solutions/1463C_Busy_Robot)
 * [1463D - Pairs](./CF_Solutions/1463D_Pairs)
 * [1466E - Apollo versus Pan](./CF_Solutions/1466E_Apollo_versus_Pan)

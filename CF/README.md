@@ -40,6 +40,7 @@
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 * [1398D - Colored Rectangles](./CF_Solutions/1398D_Colored_Rectangles)
 * [1463C - Busy Robot](./CF_Solutions/1463C_Busy_Robot)
+* [1463D - Pairs](./CF_Solutions/1463D_Pairs)
 * [1466E - Apollo versus Pan](./CF_Solutions/1466E_Apollo_versus_Pan)
 * [1468J - Road Reform](./CF_Solutions/1468J_Road_Reform)
 * [1475D - Cleaning the Phone](./CF_Solutions/1475D_Cleaning_the_Phone)

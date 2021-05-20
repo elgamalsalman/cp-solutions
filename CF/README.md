@@ -37,6 +37,7 @@
 
 * [1355C - Count Triangles](./CF_Solutions/1355C_Count_Triangles)
 * [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
+* [1360G - A/B Matrix](./CF_Solutions/1360G_A_B_Matrix)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 * [1398D - Colored Rectangles](./CF_Solutions/1398D_Colored_Rectangles)
 * [1404B - Tree Tag](./CF_Solutions/1404B_Tree_Tag)

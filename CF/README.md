@@ -34,7 +34,7 @@
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)
 * [1328D - Carousel](./CF_Solutions/1328D_Carousel)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
-
+* [1348D - Phoenix and Science](./CF_Solutions/1348D_Phoenix_and_Science)
 * [1355C - Count Triangles](./CF_Solutions/1355C_Count_Triangles)
 * [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
 * [1360G - A/B Matrix](./CF_Solutions/1360G_A_B_Matrix)

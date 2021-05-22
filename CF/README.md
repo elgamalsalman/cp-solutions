@@ -30,6 +30,7 @@
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)
 * [1244D - Paint the Tree](./CF_Solutions/1244D_Paint_the_Tree)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
+* [1264B - Beautiful Sequence](./CF_Solutions/1264B_Beautiful_Sequence)
 * [1267J - Just Arrange the Icons](./CF_Solutions/1267J_Just_Arrange_the_Icons)
 * [1276B - Two Fairs](./CF_Solutions/1276B_Two_Fairs)
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)

@@ -31,6 +31,7 @@
 * [1244D - Paint the Tree](./CF_Solutions/1244D_Paint_the_Tree)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1267J - Just Arrange the Icons](./CF_Solutions/1267J_Just_Arrange_the_Icons)
+* [1276B - Two Fairs](./CF_Solutions/1276B_Two_Fairs)
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)
 * [1328D - Carousel](./CF_Solutions/1328D_Carousel)
 * [1328E - Tree Queries](./CF_Solutions/1328E_Tree_Queries)

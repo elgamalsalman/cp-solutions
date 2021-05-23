@@ -29,6 +29,7 @@
 * [1177B - Digits Sequence (Hard Edition)](./CF_Solutions/1177B_Digits_Sequence_Hard_Edition)
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)
 * [1244D - Paint the Tree](./CF_Solutions/1244D_Paint_the_Tree)
+* [1260D - A Game with Traps](./CF_Solutions/1260D_A_Game_with_Traps)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1264B - Beautiful Sequence](./CF_Solutions/1264B_Beautiful_Sequence)
 * [1267J - Just Arrange the Icons](./CF_Solutions/1267J_Just_Arrange_the_Icons)

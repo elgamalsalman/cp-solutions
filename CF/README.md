@@ -28,6 +28,7 @@
 * [1102E - Monotonic Renumeration](./CF_Solutions/1102E_Monotonic_Renumeration)
 * [1177B - Digits Sequence (Hard Edition)](./CF_Solutions/1177B_Digits_Sequence_Hard_Edition)
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)
+* [1242B - 0-1 MST](./CF_Solutions/1242B_0_1_MST)
 * [1244D - Paint the Tree](./CF_Solutions/1244D_Paint_the_Tree)
 * [1260D - A Game with Traps](./CF_Solutions/1260D_A_Game_with_Traps)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)

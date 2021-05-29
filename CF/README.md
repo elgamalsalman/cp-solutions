@@ -26,6 +26,7 @@
 * [1056D - Decorate Apple Tree](./CF_Solutions/1056D_Decorate_Apple_Tree)
 * [1066C - Books Queries](./CF_Solutions/1066C_Books_Queries)
 * [1102E - Monotonic Renumeration](./CF_Solutions/1102E_Monotonic_Renumeration)
+* [1172B - Nauuo and Circle](./CF_Solutions/1172B_Nauuo_and_Circle)
 * [1177B - Digits Sequence (Hard Edition)](./CF_Solutions/1177B_Digits_Sequence_Hard_Edition)
 * [1205B - Shortest Cycle](./CF_Solutions/1205B_Shortest_Cycle)
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)

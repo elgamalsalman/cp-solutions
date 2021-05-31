@@ -26,6 +26,7 @@
 * [1056D - Decorate Apple Tree](./CF_Solutions/1056D_Decorate_Apple_Tree)
 * [1066C - Books Queries](./CF_Solutions/1066C_Books_Queries)
 * [1102E - Monotonic Renumeration](./CF_Solutions/1102E_Monotonic_Renumeration)
+* [1168B - Good Triple](./CF_Solutions/1168B_Good_Triple)
 * [1172B - Nauuo and Circle](./CF_Solutions/1172B_Nauuo_and_Circle)
 * [1177B - Digits Sequence (Hard Edition)](./CF_Solutions/1177B_Digits_Sequence_Hard_Edition)
 * [1205B - Shortest Cycle](./CF_Solutions/1205B_Shortest_Cycle)

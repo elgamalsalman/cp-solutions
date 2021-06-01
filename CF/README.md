@@ -23,6 +23,7 @@
 * [0846F - Random Query](./CF_Solutions/0846F_Random_Query)
 * [0847E - Packmen](./CF_Solutions/0847E_Packmen)
 * [0924B - Three-level Laser](./CF_Solutions/0924B_Three_level_Laser)
+* [1012B - Chemical table](./CF_Solutions/1012B_Chemical_table)
 * [1044B - Intersecting Subtrees](./CF_Solutions/1044B_Intersecting_Subtrees)
 * [1056D - Decorate Apple Tree](./CF_Solutions/1056D_Decorate_Apple_Tree)
 * [1066C - Books Queries](./CF_Solutions/1066C_Books_Queries)

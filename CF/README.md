@@ -23,6 +23,7 @@
 * [0846F - Random Query](./CF_Solutions/0846F_Random_Query)
 * [0847E - Packmen](./CF_Solutions/0847E_Packmen)
 * [0924B - Three-level Laser](./CF_Solutions/0924B_Three_level_Laser)
+* [0982D - Shark](./CF_Solutions/0982D_Shark)
 * [0993B - Open Communication](./CF_Solutions/0993B_Open_Communication)
 * [1012B - Chemical table](./CF_Solutions/1012B_Chemical_table)
 * [1044B - Intersecting Subtrees](./CF_Solutions/1044B_Intersecting_Subtrees)

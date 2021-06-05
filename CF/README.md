@@ -69,5 +69,6 @@
 * [1512F - Education](./CF_Solutions/1512F_Education)
 * [1512G - Short Task](./CF_Solutions/1512G_Short_Task)
 * [1517D - Explorer Space](./CF_Solutions/1517D_Explorer_Space)
+* [1525C - Robot Collisions](./CF_Solutions/1525C_Robot_Collisions)
 
 **Hope you find it helpful :)**

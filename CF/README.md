@@ -63,6 +63,7 @@
 * [1475D - Cleaning the Phone](./CF_Solutions/1475D_Cleaning_the_Phone)
 * [1475F - Unusual Matrix](./CF_Solutions/1475F_Unusual_Matrix)
 * [1491D - Zookeeper and The Infinite Zoo](./CF_Solutions/1491D_Zookeeper_and_The_Infinite_Zoo)
+* [1493C - K-beautiful Strings](./CF_Solutions/1493C_K_beautiful_Strings)
 * [1508A - Binary Literature](./CF_Solutions/1508A_Binary_Literature)
 * [1508B - Almost Sorted](./CF_Solutions/1508B_Almost_Sorted)
 * [1509C - The Sports Festival](./CF_Solutions/1509C_The_Sports_Festival)

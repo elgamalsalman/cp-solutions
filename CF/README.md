@@ -68,6 +68,7 @@
 * [1509C - The Sports Festival](./CF_Solutions/1509C_The_Sports_Festival)
 * [1512F - Education](./CF_Solutions/1512F_Education)
 * [1512G - Short Task](./CF_Solutions/1512G_Short_Task)
+* [1513D - GCD and MST](./CF_Solutions/1513D_GCD_and_MST)
 * [1517D - Explorer Space](./CF_Solutions/1517D_Explorer_Space)
 * [1525C - Robot Collisions](./CF_Solutions/1525C_Robot_Collisions)
 

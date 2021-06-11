@@ -1,9 +1,9 @@
-**Code:** [1509C.cpp](./1509C.cpp)
+**Code:** [1438C.cpp](./1438C.cpp)
 
 # Explanation
 
-**Time Complexity:** O(n<sup>2</sup>)
+**Time Complexity:** O(nm)
 
-**Memory Complexity:** O(n<sup>2</sup>) 
+**Memory Complexity:** O(1) 
 
-**Category:** Dynamic Programming
+**Category:** constructive algorithms / 2-sat

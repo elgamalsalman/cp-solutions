@@ -56,6 +56,7 @@
 * [1383B - GameGame](./CF_Solutions/1383B_GameGame)
 * [1398D - Colored Rectangles](./CF_Solutions/1398D_Colored_Rectangles)
 * [1404B - Tree Tag](./CF_Solutions/1404B_Tree_Tag)
+* [1416B - Make Them Equal](./CF_Solutions/1416B_Make_Them_Equal)
 * [1427C - The Hard Work of Paparazzi](./CF_Solutions/1427C_The_Hard_Work_of_Paparazzi)
 * [1438C - Engineer Artem](./CF_Solutions/1438C_Engineer_Artem)
 * [1458B - Glass Half Spilled](./CF_Solutions/1458B_Glass_Half_Spilled)

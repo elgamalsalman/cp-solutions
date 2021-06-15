@@ -54,6 +54,7 @@
 * [1360G - A/B Matrix](./CF_Solutions/1360G_A_B_Matrix)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 * [1383B - GameGame](./CF_Solutions/1383B_GameGame)
+* [1380D - Berserk And Fireball](./CF_Solutions/1380D_Berserk_And_Fireball)
 * [1391D - 505](./CF_Solutions/1391D_505)
 * [1398D - Colored Rectangles](./CF_Solutions/1398D_Colored_Rectangles)
 * [1404B - Tree Tag](./CF_Solutions/1404B_Tree_Tag)

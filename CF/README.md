@@ -48,6 +48,7 @@
 * [1328D - Carousel](./CF_Solutions/1328D_Carousel)
 * [1328E - Tree Queries](./CF_Solutions/1328E_Tree_Queries)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
+* [1344B - Monopole Magnets](./CF_Solutions/1344B_Monopole_Magnets)
 * [1348D - Phoenix and Science](./CF_Solutions/1348D_Phoenix_and_Science)
 * [1349B - Orac and Medians](./CF_Solutions/1349B_Orac_and_Medians)
 * [1355C - Count Triangles](./CF_Solutions/1355C_Count_Triangles)

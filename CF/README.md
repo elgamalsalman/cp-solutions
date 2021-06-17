@@ -49,6 +49,7 @@
 * [1328E - Tree Queries](./CF_Solutions/1328E_Tree_Queries)
 * [1344A - Hilbert's Hotel](./CF_Solutions/1344A_Hilberts_Hotel)
 * [1348D - Phoenix and Science](./CF_Solutions/1348D_Phoenix_and_Science)
+* [1349B - Orac and Medians](./CF_Solutions/1349B_Orac_and_Medians)
 * [1355C - Count Triangles](./CF_Solutions/1355C_Count_Triangles)
 * [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
 * [1359D - Yet Another Yet Another Task](./CF_Solutions/1359D_Yet_Another_Yet_Another_Task)

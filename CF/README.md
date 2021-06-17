@@ -51,6 +51,7 @@
 * [1348D - Phoenix and Science](./CF_Solutions/1348D_Phoenix_and_Science)
 * [1355C - Count Triangles](./CF_Solutions/1355C_Count_Triangles)
 * [1359C - Mixing Water](./CF_Solutions/1359C_Mixing_Water)
+* [1359D - Yet Another Yet Another Task](./CF_Solutions/1359D_Yet_Another_Yet_Another_Task)
 * [1360G - A/B Matrix](./CF_Solutions/1360G_A_B_Matrix)
 * [1365D - Solve The Maze](./CF_Solutions/1365D_Solve_The_Maze)
 * [1366D - Two Divisors](./CF_Solutions/1366D_Two_Divisors)

@@ -44,6 +44,7 @@
 * [1264B - Beautiful Sequence](./CF_Solutions/1264B_Beautiful_Sequence)
 * [1267J - Just Arrange the Icons](./CF_Solutions/1267J_Just_Arrange_the_Icons)
 * [1276B - Two Fairs](./CF_Solutions/1276B_Two_Fairs)
+* [1311D - Three Integers](./CF_Solutions/1311D_Three_Integers)
 * [1320B - Navigation System](./CF_Solutions/1320B_Navigation_System)
 * [1328D - Carousel](./CF_Solutions/1328D_Carousel)
 * [1328E - Tree Queries](./CF_Solutions/1328E_Tree_Queries)

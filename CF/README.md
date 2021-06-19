@@ -43,6 +43,7 @@
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1264B - Beautiful Sequence](./CF_Solutions/1264B_Beautiful_Sequence)
 * [1267J - Just Arrange the Icons](./CF_Solutions/1267J_Just_Arrange_the_Icons)
+* [1268B - Domino for Young](./CF_Solutions/1268B_Domino_for_Young)
 * [1276B - Two Fairs](./CF_Solutions/1276B_Two_Fairs)
 * [1288D - Minimax Problem](./CF_Solutions/1288D_Minimax_Problem)
 * [1301D - Time to Run](./CF_Solutions/1301D_Time_to_Run)

@@ -88,5 +88,9 @@
 * [1513D - GCD and MST](./CF_Solutions/1513D_GCD_and_MST)
 * [1517D - Explorer Space](./CF_Solutions/1517D_Explorer_Space)
 * [1525C - Robot Collisions](./CF_Solutions/1525C_Robot_Collisions)
+* [1539A - Contest Start](./CF_Solutions/1539A_Contest_Start)
+* [1539B - Love Song](./CF_Solutions/1539B_Love_Song)
+* [1539C - Stable Groups](./CF_Solutions/1539C_Stable_Groups)
+* [1539D - PriceFixed](./CF_Solutions/1539D_PriceFixed)
 
 **Hope you find it helpful :)**

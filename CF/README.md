@@ -42,6 +42,7 @@
 * [1260D - A Game with Traps](./CF_Solutions/1260D_A_Game_with_Traps)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1264B - Beautiful Sequence](./CF_Solutions/1264B_Beautiful_Sequence)
+* [1266D - Decreasing Debts](./CF_Solutions/1266D_Decreasing_Debts)
 * [1267J - Just Arrange the Icons](./CF_Solutions/1267J_Just_Arrange_the_Icons)
 * [1268B - Domino for Young](./CF_Solutions/1268B_Domino_for_Young)
 * [1276B - Two Fairs](./CF_Solutions/1276B_Two_Fairs)

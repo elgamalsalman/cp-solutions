@@ -39,6 +39,7 @@
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)
 * [1242B - 0-1 MST](./CF_Solutions/1242B_0_1_MST)
 * [1244D - Paint the Tree](./CF_Solutions/1244D_Paint_the_Tree)
+* [1248D1 - The World Is Just a Programming Task (Easy Version)](./CF_Solutions/1248D1_The_World_Is_Just_a_Programming_Task_Easy_Version)
 * [1260D - A Game with Traps](./CF_Solutions/1260D_A_Game_with_Traps)
 * [1264A - Beautiful Regional Contest](./CF_Solutions/1264A_Beautiful_Regional_Contest)
 * [1264B - Beautiful Sequence](./CF_Solutions/1264B_Beautiful_Sequence)

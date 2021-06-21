@@ -2,7 +2,7 @@
 
 # Explanation
 
-**Time Complexity:** O(n * log(n)<sup>2</sup>)
+**Time Complexity:** O(nlog<sup>2</sup>n)
 
 **Memory Complexity:** O(n) 
 

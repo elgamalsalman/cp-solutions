@@ -6,4 +6,4 @@
 
 **Memory Complexity:** O(n) 
 
-**Category:** Brute Force / Dynamic Programming (DP)
+**Category:** Greedy / Dynamic Programming (DP)

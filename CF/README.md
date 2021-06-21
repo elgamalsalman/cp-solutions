@@ -35,6 +35,7 @@
 * [1168B - Good Triple](./CF_Solutions/1168B_Good_Triple)
 * [1172B - Nauuo and Circle](./CF_Solutions/1172B_Nauuo_and_Circle)
 * [1177B - Digits Sequence (Hard Edition)](./CF_Solutions/1177B_Digits_Sequence_Hard_Edition)
+* [1204D1 - Kirk and a Binary String (easy version)](./CF_Solutions/1204D1_Kirk_and_a_Binary_String_easy_version)
 * [1205B - Shortest Cycle](./CF_Solutions/1205B_Shortest_Cycle)
 * [1223D - Sequence Sorting](./CF_Solutions/1223D_Sequence_Sorting)
 * [1237D - Balanced Playlist](./CF_Solutions/1237D_Balanced_Playlist)

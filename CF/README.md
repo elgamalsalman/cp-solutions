@@ -96,5 +96,6 @@
 * [1539B - Love Song](./CF_Solutions/1539B_Love_Song)
 * [1539C - Stable Groups](./CF_Solutions/1539C_Stable_Groups)
 * [1539D - PriceFixed](./CF_Solutions/1539D_PriceFixed)
+* [307094I - Segment with the Required Subset](./CF_Solutions/307094I_Segment_with_the_Required_Subset)
 
 **Hope you find it helpful :)**

@@ -2,6 +2,7 @@
 
 **Do a binary search ;)**
 
+* [00104 - Arbitrage](./UVa_Solutions/00104_Arbitrage)
 * [00216 - Getting in Line](./UVa_Solutions/00216_Getting_in_Line)
 * [00247 - Calling Circles](./UVa_Solutions/00247_Calling_Circles)
 * [00314 - Robot](./UVa_Solutions/00314_Robot)

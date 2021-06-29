@@ -2,8 +2,8 @@
 
 # Explanation
 
-**Time Complexity:** O(V<sup>4</sup>)
+**Time Complexity:** O(n<sup>4</sup>)
 
-**Memory Complexity:** O(v<sup>3</sup>)
+**Memory Complexity:** O(n<sup>3</sup>)
 
 **Category:** Graph Theory / Floyd Warshall

@@ -16,6 +16,7 @@
 * [00872 - Ordering](./UVa_Solutions/00872_Ordering)
 * [00924 - Spreading The News](./UVa_Solutions/00924_Spreading_The_News)
 * [00929 - Number Maze](./UVa_Solutions/00929_Number_Maze)
+* [01056 - Degrees of Separation](./UVa_Solutions/01056_Degrees_of_Separation)
 * [01112 - Mice and Maze](./UVa_Solutions/01112_Mice_and_Maze)
 * [10004 - Bicoloring](./UVa_Solutions/10004_Bicoloring)
 * [10048 - Audiophobia](./UVa_Solutions/10048_Audiophobia)

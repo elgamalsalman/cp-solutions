@@ -10,6 +10,7 @@
 * [00334 - Identifying Concurrent Events](./UVa_Solutions/00334_Identifying_Concurrent_Events)
 * [00357 - Let Me Count The Ways](./UVa_Solutions/00357_Let_Me_Count_The_Ways)
 * [00429 - Word Transformation](./UVa_Solutions/00429_Word_Transformation)
+* [00452 - Project Scheduling](./UVa_Solutions/00452_Project_Scheduling)
 * [00558 - Wormholes](./UVa_Solutions/00558_Wormholes)
 * [00796 - Critical Links](./UVa_Solutions/00796_Critical_Links)
 * [00821 - Page Hopping](./UVa_Solutions/00821_Page_Hopping)

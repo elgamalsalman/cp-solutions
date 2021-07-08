@@ -28,6 +28,7 @@
 * [10306 - e-Coins](./UVa_Solutions/10306_eCoins)
 * [10337 - Flight Planner](./UVa_Solutions/10337_Flight_Planner)
 * [10369 - Arctic Network](./UVa_Solutions/10369_Arctic_Network)
+* [10401 - Injured Queen Problem](./UVa_Solutions/10401_Injured_Queen_Problem)
 * [10449 - Traffic](./UVa_Solutions/10449_Traffic)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
 * [10557 - XYZZY](./UVa_Solutions/10557_XYZZY)

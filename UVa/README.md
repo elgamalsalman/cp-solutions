@@ -15,6 +15,7 @@
 * [00796 - Critical Links](./UVa_Solutions/00796_Critical_Links)
 * [00821 - Page Hopping](./UVa_Solutions/00821_Page_Hopping)
 * [00872 - Ordering](./UVa_Solutions/00872_Ordering)
+* [00907 - Winterim Backpacking Trip](./UVa_Solutions/00907_Winterim_Backpacking_Trip)
 * [00924 - Spreading The News](./UVa_Solutions/00924_Spreading_The_News)
 * [00929 - Number Maze](./UVa_Solutions/00929_Number_Maze)
 * [00988 - Many Paths, One Destination](./UVa_Solutions/00988_Many_Paths_One_Destination)

@@ -40,6 +40,7 @@
 * [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
 * [10801 - Lift Hopping](./UVa_Solutions/10801_Lift_Hopping)
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)
+* [10913 - Walking on a Grid](./UVa_Solutions/10913_Walking_on_a_Grid)
 * [10943 - How do you add?](./UVa_Solutions/10943_How_do_you_add)
 * [10986 - Sending email](./UVa_Solutions/10986_Sending_email)
 * [11060 - Beverages](./UVa_Solutions/11060_Beverages)

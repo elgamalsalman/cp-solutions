@@ -31,6 +31,7 @@
 * [10369 - Arctic Network](./UVa_Solutions/10369_Arctic_Network)
 * [10401 - Injured Queen Problem](./UVa_Solutions/10401_Injured_Queen_Problem)
 * [10449 - Traffic](./UVa_Solutions/10449_Traffic)
+* [10459 - The Tree Root](./UVa_Solutions/10459_The_Tree_Root)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
 * [10557 - XYZZY](./UVa_Solutions/10557_XYZZY)
 * [10600 - ACM Contest and Blackout](./UVa_Solutions/10600_ACM_Contest_and_Blackout)

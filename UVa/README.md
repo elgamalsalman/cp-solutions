@@ -40,6 +40,7 @@
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)
 * [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
 * [10801 - Lift Hopping](./UVa_Solutions/10801_Lift_Hopping)
+* [10805 - Cockroach Escape Networks](./UVa_Solutions/10805_Cockroach_Escape_Networks)
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)
 * [10913 - Walking on a Grid](./UVa_Solutions/10913_Walking_on_a_Grid)
 * [10943 - How do you add?](./UVa_Solutions/10943_How_do_you_add)

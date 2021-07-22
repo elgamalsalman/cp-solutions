@@ -24,6 +24,7 @@
 * [10004 - Bicoloring](./UVa_Solutions/10004_Bicoloring)
 * [10048 - Audiophobia](./UVa_Solutions/10048_Audiophobia)
 * [10171 - Meeting Prof. Miguel ...](./UVa_Solutions/10171_Meeting_Prof_Miguel)
+* [10203 - Snow Clearing](./UVa_Solutions/10203_Snow_Clearing)
 * [10285 - Longest Run on a Snowboard](./UVa_Solutions/10285_Longest_Run_on_a_Snowboard)
 * [10305 - Ordering Tasks](./UVa_Solutions/10305_Ordering_Tasks)
 * [10306 - e-Coins](./UVa_Solutions/10306_eCoins)

@@ -35,6 +35,7 @@
 * [10459 - The Tree Root](./UVa_Solutions/10459_The_Tree_Root)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
 * [10557 - XYZZY](./UVa_Solutions/10557_XYZZY)
+* [10596 - Morning Walk](./UVa_Solutions/10596_Morning_Walk)
 * [10600 - ACM Contest and Blackout](./UVa_Solutions/10600_ACM_Contest_and_Blackout)
 * [10616 - Divisible Group Sums](./UVa_Solutions/10616_Divisible_Group_Sums)
 * [10653 - Bombs! NO they are Mines!!](./UVa_Solutions/10653_Bombs_NO_they_are_Mines)

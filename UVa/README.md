@@ -12,6 +12,7 @@
 * [00429 - Word Transformation](./UVa_Solutions/00429_Word_Transformation)
 * [00452 - Project Scheduling](./UVa_Solutions/00452_Project_Scheduling)
 * [00558 - Wormholes](./UVa_Solutions/00558_Wormholes)
+* [00763 - Fibinary Numbers](./UVa_Solutions/00763_Fibinary_Numbers)
 * [00796 - Critical Links](./UVa_Solutions/00796_Critical_Links)
 * [00821 - Page Hopping](./UVa_Solutions/00821_Page_Hopping)
 * [00872 - Ordering](./UVa_Solutions/00872_Ordering)

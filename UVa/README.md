@@ -29,6 +29,7 @@
 * [10285 - Longest Run on a Snowboard](./UVa_Solutions/10285_Longest_Run_on_a_Snowboard)
 * [10305 - Ordering Tasks](./UVa_Solutions/10305_Ordering_Tasks)
 * [10306 - e-Coins](./UVa_Solutions/10306_eCoins)
+* [10334 - Ray Through Glasses](./UVa_Solutions/10334_Ray_Through_Glasses)
 * [10337 - Flight Planner](./UVa_Solutions/10337_Flight_Planner)
 * [10369 - Arctic Network](./UVa_Solutions/10369_Arctic_Network)
 * [10401 - Injured Queen Problem](./UVa_Solutions/10401_Injured_Queen_Problem)

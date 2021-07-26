@@ -8,6 +8,7 @@ class BigInt {
 
     BigInt() : raw{"0"} {}
     BigInt(string r) : raw{r} {}
+    BigInt(int r) : raw{to_string(r)} {}
 
     BigInt operator+(BigInt &operand) {
       string num1 = raw;

@@ -41,7 +41,7 @@
 * [10600 - ACM Contest and Blackout](./UVa_Solutions/10600_ACM_Contest_and_Blackout)
 * [10616 - Divisible Group Sums](./UVa_Solutions/10616_Divisible_Group_Sums)
 * [10653 - Bombs! NO they are Mines!!](./UVa_Solutions/10653_Bombs_NO_they_are_Mines)
-* [1689 - Yet another Number Sequence](./UVa_Solutions/10689_Yet_another_Number_Sequence)
+* [10689 - Yet another Number Sequence](./UVa_Solutions/10689_Yet_another_Number_Sequence)
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)
 * [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
 * [10801 - Lift Hopping](./UVa_Solutions/10801_Lift_Hopping)

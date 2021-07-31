@@ -37,6 +37,7 @@
 * [10449 - Traffic](./UVa_Solutions/10449_Traffic)
 * [10459 - The Tree Root](./UVa_Solutions/10459_The_Tree_Root)
 * [10496 - Collecting Beepers](./UVa_Solutions/10496_Collecting_Beepers)
+* [10541 - Stripe](./UVa_Solutions/10541_Stripe)
 * [10557 - XYZZY](./UVa_Solutions/10557_XYZZY)
 * [10596 - Morning Walk](./UVa_Solutions/10596_Morning_Walk)
 * [10600 - ACM Contest and Blackout](./UVa_Solutions/10600_ACM_Contest_and_Blackout)

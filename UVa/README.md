@@ -69,6 +69,7 @@
 * [11831 - Sticker Collector Robot](./UVa_Solutions/11831_Sticker_Collector_Robot)
 * [11838 - Come and Go](./UVa_Solutions/11838_Come_and_Go)
 * [11953 - Battleships](./UVa_Solutions/11953_Battleships)
+* [11955 - Binomial Theorem](./UVa_Solutions/11955_Binomial_Theorem)
 * [11957 - Checkers](./UVa_Solutions/11957_Checkers)
 * [12047 - Highest Paid Toll](./UVa_Solutions/12047_Highest_Paid_Toll)
 * [12160 - Unlock the Lock](./UVa_Solutions/12160_Unlock_the_Lock)

@@ -24,6 +24,7 @@
 * [01056 - Degrees of Separation](./UVa_Solutions/01056_Degrees_of_Separation)
 * [01112 - Mice and Maze](./UVa_Solutions/01112_Mice_and_Maze)
 * [10004 - Bicoloring](./UVa_Solutions/10004_Bicoloring)
+* [10007 - Count the Trees](./UVa_Solutions/10007_Count_the_Trees)
 * [10048 - Audiophobia](./UVa_Solutions/10048_Audiophobia)
 * [10171 - Meeting Prof. Miguel ...](./UVa_Solutions/10171_Meeting_Prof_Miguel)
 * [10203 - Snow Clearing](./UVa_Solutions/10203_Snow_Clearing)

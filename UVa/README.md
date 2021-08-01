@@ -20,6 +20,7 @@
 * [00924 - Spreading The News](./UVa_Solutions/00924_Spreading_The_News)
 * [00929 - Number Maze](./UVa_Solutions/00929_Number_Maze)
 * [00988 - Many Paths, One Destination](./UVa_Solutions/00988_Many_Paths_One_Destination)
+* [00991 - Safe Salutations](./UVa_Solutions/00991_Safe_Salutations)
 * [01056 - Degrees of Separation](./UVa_Solutions/01056_Degrees_of_Separation)
 * [01112 - Mice and Maze](./UVa_Solutions/01112_Mice_and_Maze)
 * [10004 - Bicoloring](./UVa_Solutions/10004_Bicoloring)

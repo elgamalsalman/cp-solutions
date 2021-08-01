@@ -60,6 +60,7 @@
 * [11094 - Continents](./UVa_Solutions/11094_Continents)
 * [11101 - Mall Mania](./UVa_Solutions/11101_Mall_Mania)
 * [11228 - Transportation system](./UVa_Solutions/11228_Transportation_system)
+* [11310 - Delivery Debacle](./UVa_Solutions/11310_Delivery_Debacle)
 * [11396 - Claw Decomposition](./UVa_Solutions/11396_Claw_Decomposition)
 * [11463 - Commandos](./UVa_Solutions/11463_Commandos)
 * [11492 - Babel](./UVa_Solutions/11492_Babel)

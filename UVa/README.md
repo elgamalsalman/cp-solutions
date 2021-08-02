@@ -49,6 +49,7 @@
 * [10689 - Yet another Number Sequence](./UVa_Solutions/10689_Yet_another_Number_Sequence)
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)
 * [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
+* [10784 - Diagonal](./UVa_Solutions/10784_Diagonal)
 * [10801 - Lift Hopping](./UVa_Solutions/10801_Lift_Hopping)
 * [10805 - Cockroach Escape Networks](./UVa_Solutions/10805_Cockroach_Escape_Networks)
 * [10819 - Trouble of 13-Dots](./UVa_Solutions/10819_Trouble_of_13_Dots)

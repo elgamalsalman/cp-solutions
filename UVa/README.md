@@ -62,6 +62,7 @@
 * [11228 - Transportation system](./UVa_Solutions/11228_Transportation_system)
 * [11310 - Delivery Debacle](./UVa_Solutions/11310_Delivery_Debacle)
 * [11396 - Claw Decomposition](./UVa_Solutions/11396_Claw_Decomposition)
+* [11401 - Triangle Counting](./UVa_Solutions/11401_Triangle_Counting)
 * [11463 - Commandos](./UVa_Solutions/11463_Commandos)
 * [11492 - Babel](./UVa_Solutions/11492_Babel)
 * [11504 - Dominos](./UVa_Solutions/11504_Dominos)

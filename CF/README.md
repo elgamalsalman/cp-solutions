@@ -37,6 +37,7 @@
 * [1177B - Digits Sequence (Hard Edition)](./CF_Solutions/1177B_Digits_Sequence_Hard_Edition)
 * [1204D1 - Kirk and a Binary String (easy version)](./CF_Solutions/1204D1_Kirk_and_a_Binary_String_easy_version)
 * [1205B - Shortest Cycle](./CF_Solutions/1205B_Shortest_Cycle)
+* [1209D - Cow and Snacks](./CF_Solutions/1209D_Cow_and_Snacks)
 * [1223D - Sequence Sorting](./CF_Solutions/1223D_Sequence_Sorting)
 * [1237D - Balanced Playlist](./CF_Solutions/1237D_Balanced_Playlist)
 * [1239A - Ivan the Fool and the Probability Theory](./CF_Solutions/1239A_Ivan_the_Fool_and_the_Probability_Theory)

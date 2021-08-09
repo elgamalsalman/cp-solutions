@@ -57,6 +57,7 @@
 * [10943 - How do you add?](./UVa_Solutions/10943_How_do_you_add)
 * [10986 - Sending email](./UVa_Solutions/10986_Sending_email)
 * [11060 - Beverages](./UVa_Solutions/11060_Beverages)
+* [11069 - A Graph Problem](./UVa_Solutions/11069_A_Graph_Problem)
 * [11080 - Place the Guards](./UVa_Solutions/11080_Place_the_Guards)
 * [11094 - Continents](./UVa_Solutions/11094_Continents)
 * [11101 - Mall Mania](./UVa_Solutions/11101_Mall_Mania)

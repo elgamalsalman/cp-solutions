@@ -69,6 +69,7 @@
 * [11492 - Babel](./UVa_Solutions/11492_Babel)
 * [11504 - Dominos](./UVa_Solutions/11504_Dominos)
 * [11517 - Exact Change](./UVa_Solutions/11517_Exact_Change)
+* [11538 - Chess Queen](./UVa_Solutions/11538_Chess_Queen)
 * [11566 - Let's Yum Cha](./UVa_Solutions/11566_Lets_Yum_Cha)
 * [11597 - Spanning Subtree](./UVa_Solutions/11597_Spanning_Subtree)
 * [11631 - Dark roads](./UVa_Solutions/11631_Dark_roads)

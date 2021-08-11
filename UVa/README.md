@@ -36,6 +36,7 @@
 * [10312 - Expression Bracketing](./UVa_Solutions/10312_Expression_Bracketing)
 * [10334 - Ray Through Glasses](./UVa_Solutions/10334_Ray_Through_Glasses)
 * [10337 - Flight Planner](./UVa_Solutions/10337_Flight_Planner)
+* [10338 - Mischievous Children](./UVa_Solutions/10338_Mischievous_Children)
 * [10369 - Arctic Network](./UVa_Solutions/10369_Arctic_Network)
 * [10401 - Injured Queen Problem](./UVa_Solutions/10401_Injured_Queen_Problem)
 * [10449 - Traffic](./UVa_Solutions/10449_Traffic)

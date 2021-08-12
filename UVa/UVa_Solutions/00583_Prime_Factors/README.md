@@ -2,8 +2,10 @@
 
 # Explanation
 
-**Time Complexity:** O(n<sup>2</sup>logn)
+**Time Complexity:** O(sqrt(n)/ln(sqrt(n)))
 
-**Memory Complexity:** O(n)
+**Memory Complexity:** O(sqrt(n) + sqrt(n)/ln(sqrt(n)))
+
+n/ln(n) is an approximation for the number of prime numbers from 1 to n.
 
 **Category:** Mathematics / Number Theory

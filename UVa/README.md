@@ -1,7 +1,5 @@
 # Solutions to problems from [UVa Online Judge](https://onlinejudge.org/)
 
-XXXXX
-
 **Do a binary search ;)**
 
 * [00104 - Arbitrage](./UVa_Solutions/00104_Arbitrage)

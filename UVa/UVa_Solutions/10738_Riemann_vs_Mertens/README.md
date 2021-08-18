@@ -6,6 +6,6 @@
 
 **Time Complexity:** O(nloglogn + nlogn)
 
-
+Where n is the largest number given in the input.
 
 **Category:** Mathematics

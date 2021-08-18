@@ -53,6 +53,7 @@
 * [10680 - LCM](./UVa_Solutions/10680_LCM)
 * [10689 - Yet another Number Sequence](./UVa_Solutions/10689_Yet_another_Number_Sequence)
 * [10721 - Bar Codes](./UVa_Solutions/10721_Bar_Codes)
+* [10738 - Riemann vs Mertens](./UVa_Solutions/10738_Riemann_vs_Mertens)
 * [10765 - Doves and Bombs](./UVa_Solutions/10765_Doves_and_Bombs)
 * [10784 - Diagonal](./UVa_Solutions/10784_Diagonal)
 * [10801 - Lift Hopping](./UVa_Solutions/10801_Lift_Hopping)

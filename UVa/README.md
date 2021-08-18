@@ -29,7 +29,7 @@
 * [10007 - Count the Trees](./UVa_Solutions/10007_Count_the_Trees)
 * [10048 - Audiophobia](./UVa_Solutions/10048_Audiophobia)
 * [10171 - Meeting Prof. Miguel ...](./UVa_Solutions/10171_Meeting_Prof_Miguel)
-* [10176 - Ocean Deep! - Make it shallowvim 10176.cpp ](./UVa_Solutions/10176_Ocean_Deep_Make_it_shallowvim_10176cpp_)
+* [10176 - Ocean Deep! - Make it shallow\!!](./UVa_Solutions/10176_Ocean_Deep_Make_it_shallow)
 * [10179 - Irreducable Basic Fractions](./UVa_Solutions/10179_Irreducable_Basic_Fractions)
 * [10203 - Snow Clearing](./UVa_Solutions/10203_Snow_Clearing)
 * [10219 - Find the ways!](./UVa_Solutions/10219_Find_the_ways)

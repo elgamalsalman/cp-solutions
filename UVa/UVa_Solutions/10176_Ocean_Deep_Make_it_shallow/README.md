@@ -6,6 +6,6 @@
 
 **Time Complexity:** O(n)
 
-Where n is the number of digits given
+Where n is the number of digits given.
 
 **Category:** Mathematics

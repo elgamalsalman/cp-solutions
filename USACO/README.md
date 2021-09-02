@@ -8,6 +8,6 @@
 * [2021 February Contest - Stone Game](./USACO_Solutions/1113)
 
 ### SILVER
-* [2020 December Contest- Rectangular Pasture](./USACO_Solutions/1063)
+* [2020 December Contest - Rectangular Pasture](./USACO_Solutions/1063)
 
 **Hope you find it helpful :)**

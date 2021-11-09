@@ -9,6 +9,7 @@
 * [2016 US Open Contest - Splitting the Field](./USACO_Solutions/0645)
 * [2016 US Open Contest - Closing the Farm](./USACO_Solutions/0646)
 * [2016 US Open Contest - 248](./USACO_Solutions/0647)
+* [2016 February Contest - Cricular Barn](./USACO_Solutions/0621)
 
 ### SILVER
 * [2020 December Contest - Rectangular Pasture](./USACO_Solutions/1063)
